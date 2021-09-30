@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="58e2708f-669f-4b98-9ae1-1fec443c80c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NewTransactionModal/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewTransactionModal/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/NewTransactionModal/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewTransactionModal/styles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
       <workItem from="1632875754089" duration="3234000" />
       <workItem from="1632879094574" duration="1055000" />
       <workItem from="1632915602970" duration="1723000" />
+      <workItem from="1633002207838" duration="3108000" />
     </task>
     <servers />
   </component>
