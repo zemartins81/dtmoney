@@ -13,6 +13,10 @@ export const Content = styled.div`
   margin: auto;
   padding: 0 1rem 10rem;
 
+  img {
+    margin-top: 2rem;
+  }
+
   button {
     font-size: 1rem;
     color: #fff;
@@ -20,6 +24,7 @@ export const Content = styled.div`
     border: 0;
     padding: 0 2rem;
     border-radius: 0.25rem;
+    margin-top: 2rem;
     height: 3rem;
 
     transition: filter 0.2s;
