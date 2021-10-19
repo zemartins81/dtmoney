@@ -31,7 +31,6 @@ html {
 body{
     background: var(--background);
     --webkit-font-smoothing: antialiased;
-
 }
 
 body, input, textarea, button {
